@@ -2,3 +2,4 @@ arquivo teste
 g
 segundo commit
 terceiro commit
+quarto commit
